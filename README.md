@@ -48,6 +48,11 @@ NLP/
 
 ## 🚀 Steps to Run
 
+### 🌐 **Live Demo**
+**🔗 Deployed Application**: https://text-preprocessing-application.streamlit.app/
+
+### 📋 **Local Development**
+
 ### Prerequisites
 - Python 3.8 or higher installed on your system
 - pip (Python package installer)
