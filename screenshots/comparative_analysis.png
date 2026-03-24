@@ -1,0 +1,10 @@
+# This is a placeholder for the comparative analysis screenshot
+# The actual image should be manually added to this location
+# Image shows performance comparison between stemming and lemmatization
+# Performance data:
+# - Stemming Time: 0.38 ms
+# - Lemmatization Time: 2484.77 ms
+# - Faster Method: Stemming by 2484.39 ms
+# - Words Transformed by Stemming: 15
+# - Words Transformed by Lemmatization: 4
+# - Readability Scores: Both 1.00

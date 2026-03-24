@@ -194,6 +194,20 @@ Simple heuristic based on:
 - Transformation frequency
 - Linguistic correctness
 
+## 📸 Screenshots
+
+### 📊 Comparative Analysis
+![Comparative Analysis](screenshots/comparative_analysis.png)
+
+### ⚡ Performance Metrics
+![Performance Metrics](screenshots/performance_metrics.png)
+
+### 📋 Side-by-Side Comparison
+![Side-by-Side Comparison](screenshots/side_by_side_comparison.png)
+
+### 📈 Transformation Analysis
+![Transformation Analysis](screenshots/transformation_analysis.png)
+
 ## 🎯 Conclusion
 
 ### Key Findings
